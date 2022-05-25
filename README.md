@@ -19,4 +19,4 @@
 
 ### Website Link
 
-[link](https://73gs514.github.io/Refactor-SEO-HW/)
+[Horiseon](https://73gs514.github.io/Refactor-SEO-HW/)
